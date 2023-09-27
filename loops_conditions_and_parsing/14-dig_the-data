@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./14-dig_the-data | head -n 10

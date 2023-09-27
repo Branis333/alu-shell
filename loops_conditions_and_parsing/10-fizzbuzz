@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./10-fizzbuzz | head -n 20
